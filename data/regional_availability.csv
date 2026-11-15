@@ -1,0 +1,4 @@
+region_name,expected_rows,lst_dates,qc_dates,paired_dates,median_spatial_coverage_pct
+"Amazon Forest, Brazil",268,228,188,148,100.0
+"George Town, Malaysia",268,226,268,226,43.69747899159664
+"Sahara Desert, Algeria",268,268,8,8,100.0
